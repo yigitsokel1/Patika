@@ -6,7 +6,7 @@ equal and less than 16.99 (use BETWEEN - AND structure).
 that first_name is the values 'Penelope' or 'Nick' or 'Ed'. (Use the IN operator.)
 
 3.Sort the data in all columns in the movie table with rental rate 0.99, 2.99, 4.99 AND 
-replacement_cost 12.99, 15.99, 28.99. (Use the IN operator.)
+replacement_cost 12.99, 15.99, 28.99. (Use the IN operator.)*/
 
 
 --Answer 1
