@@ -11,7 +11,7 @@ rental rate 0.99 AND replacement cost 12.99 OR 28.99.
 value is 'Mary' in the first_name column of the customer table?
 
 5.Rank the data in the movie table that DOES NOT have a 
-length greater than 50, but also a rental_rate of 2.99 or 4.99.
+length greater than 50, but also a rental_rate of 2.99 or 4.99.*/
 
 
 --Answer 1
